@@ -1,4 +1,4 @@
-# Goutham Reddy Portfolio
+# Goutham Kanchi Portfolio
 
 This is my personal portfolio site hosted on **GitHub Pages**.
 
@@ -11,5 +11,3 @@ This is my personal portfolio site hosted on **GitHub Pages**.
 ## How to run locally
 Open `index.html` in your browser.
 
-## Deployment
-Push to GitHub and enable GitHub Pages in repository settings.
